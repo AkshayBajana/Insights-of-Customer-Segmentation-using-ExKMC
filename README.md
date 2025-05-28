@@ -66,3 +66,7 @@ Prepare your data (CSV format, numerical features like purchase behavior)
 
 6.Download your segmented dataset and analysis
 
+project video
+
+
+
