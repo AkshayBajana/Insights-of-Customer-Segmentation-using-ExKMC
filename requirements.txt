@@ -1,0 +1,13 @@
+streamlit>=1.22.0
+pandas>=1.5.3
+numpy>=1.24.3
+scikit-learn>=1.2.2
+matplotlib==3.7.1
+seaborn==0.13.1
+plotly>=5.14.1
+dtreeviz==2.2.1
+hdbscan>=0.8.29
+shap>=0.41.0
+lime>=0.2.0.1
+xlsxwriter>=3.1.0
+openpyxl>=3.1.2 
