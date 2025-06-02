@@ -66,7 +66,14 @@ Prepare your data (CSV format, numerical features like purchase behavior)
 
 6.Download your segmented dataset and analysis
 
-project video
+project outputs:
+
+![Screenshot 2025-05-23 234139](https://github.com/user-attachments/assets/81166cab-14b5-4a81-ba57-2375c94d0060)
+![Screenshot 2025-05-23 234227](https://github.com/user-attachments/assets/8c308ccb-e0fc-462a-8dd0-3d3656093464)
+![Screenshot 2025-05-27 130535](https://github.com/user-attachments/assets/c92d9a24-9a9c-4975-b834-e48a4a679ab3)
+![Screenshot 2025-05-23 234426](https://github.com/user-attachments/assets/602aba6b-b263-49a4-9b76-ccbdfce84d71)
+![Screenshot 2025-05-23 234507](https://github.com/user-attachments/assets/41dbfe18-6e3c-4c31-b37c-a5f3c0a4c1f6)
+
 
 
 
